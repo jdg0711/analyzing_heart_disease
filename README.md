@@ -1,16 +1,13 @@
 # Analyzing Contributors to Heart Disease
 ## A codecademy Project
 
-![heart disease plot](./images/heart_disease_age.png)
-
 **Objective:** Investigate data from a sample of patients who were evaluated for heart disease at the Cleveland Clinic Foundation. 
 
 Use visualizations and hypothesis testing to evaluate correlations between variables. Incorporate SciPy and Statsmodels to test for statistical significance.
 
 The data was downloaded from the UCI Machine Learning Repository and then cleaned for analysis.
 
-
-![heart rate plot](./images/max_heart_rate.png)
+![heart disease plot](./images/heart_disease_age.png)
 
 Programming languages and libraries used: 
 - python
@@ -18,6 +15,9 @@ Programming languages and libraries used:
 - numpy
 - matplotlib
 - seaborn
+
+![heart rate plot](./images/max_heart_rate.png)
+
 
 SciPy Statistical Tests used:
 - ttest_1samp (One-sample t-test)
@@ -28,6 +28,8 @@ SciPy Statistical Tests used:
 
 Statsmodels Statistical Tests used:
 - pairwise_tukeyhsd (Tukey's Range Test) 
+
+
 
 This project was divided into two notebooks (heart_disease_project.ipynb and heart_disease_project_2.ipynb).
 It may be easier to view the code by copying/pasting the url for the .ipynb files into [nbviewer](https://nbviewer.jupyter.org/).
