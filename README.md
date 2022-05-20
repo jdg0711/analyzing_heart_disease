@@ -28,8 +28,10 @@ SciPy Statistical Tests used:
 
 Statsmodels Statistical Tests used:
 - pairwise_tukeyhsd (Tukey's Range Test) 
+<br>
 
 
+This project was divided into two notebooks. <br>
+View Part One [CTRL + click here](https://nbviewer.org/github/jdgimlin/analyzing_heart_disease/blob/main/heart_disease_project.ipynb)<br>
+View Part Two [CTRL + click here](https://nbviewer.org/github/jdgimlin/analyzing_heart_disease/blob/main/heart_disease_project_2.ipynb)
 
-This project was divided into two notebooks (heart_disease_project.ipynb and heart_disease_project_2.ipynb).
-It may be easier to view the code by copying/pasting the url for the .ipynb files into [nbviewer](https://nbviewer.jupyter.org/).
